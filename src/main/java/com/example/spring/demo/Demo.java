@@ -11,12 +11,12 @@ public class Demo {
     private Date date;
 
     public void test(String name, Long age) {
-        System.out.println("master"+name);
+        System.out.println("test"+name);
     }
     public void test1(String name, Long age) {
-        System.out.println("master"+name);
+        System.out.println("test"+name);
     }
     public void test2(String name, Long age) {
-        System.out.println("master"+name);
+        System.out.println("test"+name);
     }
 }
