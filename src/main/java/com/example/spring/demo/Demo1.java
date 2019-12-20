@@ -16,4 +16,7 @@ public class Demo1 {
     public void test3(String name, Long age) {
         System.out.println(name + age+"dev");
     }
+    public void test4(String name, Long age) {
+        System.out.println(name + age+"dev");
+    }
 }
