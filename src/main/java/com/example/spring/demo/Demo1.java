@@ -25,7 +25,7 @@ public class Demo1 {
      * 常见情况：
      *  1.merge后commit时，显示改变的会存在之前旧的显示
      *  2.merge后就没有，
-     *  3.少merger多 -->可能存在冲突
+     *  3.少merger多 -->可能存在冲突，但是不会覆盖多的内容
      *
      *  多merge少    -->没有冲突
      *
