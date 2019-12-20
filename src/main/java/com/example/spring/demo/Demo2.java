@@ -8,7 +8,7 @@ public class Demo2 {
     private Long id;
     private Date date;
 
-    private String name;F
+    private String name;
 
     public void test2(String name) {
         System.out.println(name);
