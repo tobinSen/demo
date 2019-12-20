@@ -10,7 +10,7 @@ public class Demo {
     private String gender;
     private Date date;
 
-    public void test(String name){
+    public void test(String name, Long age) {
         System.out.println(name);
     }
 }
