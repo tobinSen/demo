@@ -18,6 +18,9 @@ public class Demo1 {
     public void test3(String name, Long age) {
         System.out.println(name + age+"dev");
     }
+    public void test4(String name, Long age) {
+        System.out.println(name + age+"dev");
+    }
     /**
      * 常见情况：
      *  1.merge后commit时，显示改变的会存在之前旧的显示
