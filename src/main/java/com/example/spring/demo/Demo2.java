@@ -18,4 +18,12 @@ public class Demo2 {
         int i = new Random().nextInt();
         System.out.println(i);
     }
+    public void test2(){
+        int i = new Random().nextInt();
+        System.out.println(i);
+    }
+    public void test3(){
+        int i = new Random().nextInt();
+        System.out.println(i);
+    }
 }

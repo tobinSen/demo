@@ -13,4 +13,10 @@ public class Demo {
     public void test(String name, Long age) {
         System.out.println("master"+name);
     }
+    public void test1(String name, Long age) {
+        System.out.println("master"+name);
+    }
+    public void test2(String name, Long age) {
+        System.out.println("master"+name);
+    }
 }
